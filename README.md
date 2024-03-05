@@ -5,7 +5,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-This project was a part of my Bachelor's course (Data Structure) where we developed a medical store management system using C++. We used linked list, Queue, and Stack for different purposes to make our application more efficient and logical.
+This project was a part of my Bachelor's course (Data Structure) where we developed a medical store management system using C++. Checking medicine stock, searching for a specific medicine, serving medicine to the customers by maintaining the queue, total earnings of the store, etc are the functionalities. Linked list, Queue, Stack had been used for different purposes to make the project more efficient and logical.
 
 #### System Design
 ![Medical-Store-Management](https://github.com/grpranto/Medical-Store-Management/blob/master/images/system%20design.png)
